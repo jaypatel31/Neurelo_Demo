@@ -1,18 +1,29 @@
 # Simple Todo App
 
-This is a simple todo application built using Neurelo for the database, React for the frontend, and Node.js and Express.js for the backend.
+This is a Simple Todo App created using Neurelo for Database, React for Frontend, and Node.js with Express.js for Backend.
 
 ## Features
 
-- User authentication (login)
-- Task management
- - Create new tasks
- - Edit existing tasks
- - Delete tasks
- - Search for tasks by name
-- Task categorization
- - Tasks are classified into four categories: New, In Progress, Completed, and Due
- - Users can create custom categories
+- **User Authentication**: Normal users can log in to the todo app securely.
+- **Task Management**: Tasks are categorized into four sections: new, in progress, completed, and due.
+- **Task Operations**:
+  - **Create**: Users can create new tasks.
+  - **Edit**: Tasks can be edited, including updating task details and category.
+  - **Delete**: Users can delete tasks.
+- **Search Functionality**: Users can search for specific tasks by name.
+- **Custom Categories**: Users have the ability to create custom categories for tasks.
+
+## Technologies Used
+
+- **Frontend**:
+  - React
+  
+- **Backend**:
+  - Node.js
+  - Express.js
+  
+- **Database**:
+  - Neurelo 
 
 ## Screenshots
 
