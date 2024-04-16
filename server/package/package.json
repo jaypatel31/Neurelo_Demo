@@ -1,0 +1,14 @@
+{
+  "name": "neurelo-sdk",
+  "version": "202432.2235.34",
+  "description": "",
+  "main": "cjs/index.js",
+  "keywords": [],
+  "author": "neurelo (https://neurelo.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.11.20",
+    "axios": "^1.6.2"
+  },
+  "module": "esm/index.js"
+}
